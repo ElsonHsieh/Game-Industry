@@ -1,0 +1,21 @@
+GDD Document
+
+Intended game systems: Android/iOS
+Target age of players:12+
+Intended ESRB rating: E12(Everyone 12+)
+
+Game Summary:
+The world is overrun with walkers. All the water is contaminated and it kills most of humanity in the city. It then transforms the rest into monsters. Brianne is now the last human survivor in what is left of the city of Toronto and maybe the world.  The player need to get through the city as they need to locate food to survive. However the city is overrun by walkers and the player needs to be able to get through the walkers without being killed and transformed into a zombie as well. The player will need to fight their way through the zombies to survive using skills and strength. Players will locate several useful tools along the way such as weapons to assist them with their journey. As the player kills zombies along the way their skill sets will become stronger and they will gain experience points which will help them fight even stronger more advanced zombies.  The object of the game is to be able to safely make it out of the city to another safe city, as to locate other healthy players such as himself.
+
+Distinct mode of gameplay:
+
+In navigation mode players can pick up useful tools to help them along the way. In scavenger mode the player can search for food in buildings. In combat mode the player can choose their weapon and their armor. Their are three ways that they can choose to fight their enemies. They can chose from kick mode to kick their enemies, punch mode to punch their ememies or select a weapon. Their are two bars one bar indicates the players life force, when the player is attacked this life force will decrease. The second bar indicates the players energy level when the player is using weapons this will decrease and when empty the player will no longer be able to use thier weapons.
+
+Unique selling points:
+1.To find many strong and skillful weapons
+2.To learn to survive in the chance that the real world is overrun by zombies
+3.Defeat hordes of zombies who stand in your way of freedom
+4.Through playing this game the player will learn streets and locations in the city of Toronto
+
+Competitive products:
+Walking dead-no mands land
