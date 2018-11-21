@@ -1,0 +1,74 @@
+GDD Document
+
+Game Title: City Rush
+
+Intended game systems: Android/IOS
+Target age of players:12+
+Intended ESRB rating: Everyone
+
+Game Summary:
+You are in a city. You are trying to go from one place to another. You can choose to take a bus, drive a car, ride a bike and running to get to your destination. You have to decide which method of transportation suits the road condition the best. You will race with another player. Whoever gets to the destination quicker will be the winner. The game program will automatically match you with another player who is on a similar level. You just need to make sure you are connected to the internet.
+
+
+Game Outline:
+
+In every race, you will have different streets and different destinations. Before a race, a street map will be shown to you to let you know where your destination is. A current time of day will be shown to indicate whether it's rush hour or not. You will have to think about your strategy before the race starts. In every race, you can only use a car, a motorcycle and a bike once for a limited period of time. Think about when is the best timing to use a car and bike to move faster. Use caution when using a car. If you use a car during rush hour this will eat up too much of your time. It is recommended to use the car after 10:00 PM as you will gain time over your opponent. The winner of the race will win 10 points. If the opponent's level is higher than the player, the winner will gain more than 10 points. When the player reaches a certain number of points, the player will advance to next level. The higher your level the faster you will run.
+
+
+Characters:
+
+Character: You will pick one of the 5 citizens as your Character and name you character as you like. 
+
+Character controls - 
+
+Running: To make your character run there will be two buttons located at the bottom of the screen. In the bottom left hand corner will be the button that controls your left leg. In the bottom right hand corner will be the button to control your right leg. To make the character move forward, use these buttons in a back and forth method. Click the left then right buttons to move the left then right legs. To run click these buttons in a quick back and forth motion. If you wish to turn corners simply tilt the screen in the direction in which you wish to turn in. For a left turn, tilt the screen left. For a right turn, tilt the screen right. 
+
+Motorcycle Riding: When you wish to ride the motorcycle, push the bottom left hand button to accelerate the motorcycle. When you push the bottom right hand button the motorcycle will stop. As with running, if you wish to turn a corner simply tilt the screen to the left or right in the direction of the turn that you wish to make.
+
+Bike Riding: To use the bicycle this motion is similar to the running motion. Using the left and right buttons on the bottom will move the left or right corresponding legs. In turn this will push the left or right peddle depending on the button you push. When maksing turns, again tilt the screen to the left or right in the direction in which you wish to go. If you wish to stop the bicycle there will be a button located in the bottom center of the screen. Push this button when you wish to stop the bicycle.
+
+Buss: The bus will move on its own. Simply press the bottom right hand button to exit the bus.
+
+
+
+
+GamePlay: The game will be divided into different levels. The higher the level the more complicated the streets will be. When you are in racing mode the program will automatically match you with another player of that level. When you win the race you will gain 10 additional points possibly more. When reaching a certain point you will be able to advance onto the next level. You can select practice mode to get a handle of the game. You will be racing with Game AI in the practice mode. 
+
+
+Game World: The game will randomly select one of several major cities around the world such as Paris, Tokyo and Toronto for example. Depending on your location the weather will vary from warm to freezing temperatures to sunny or stormy weather. There will be an energy bar located at the top of the screen. When you participate in a race this will use up all of your energy. Every 30 minutes the energy bar will generate 1 unit. The maximum capacity is 20 units for the energy bar. 
+
+++game image 
+
+Music: The music theme for the game will be upbeat rock music from the 1980 to 2010 era. Some examples of this will be Green Day, Aerosmith, Led Zepplin to name a few.
+
+
+Game Experience: When players start the game they will see their level and current game points. Located on the top of the screen will be their energy bar. They will be able to choose between practice mode and racing mode. While playing the game time is of the essence so the player will feel rushed and panicked which will give the player an adrenalin rush. The sounds of the game will be the rock music playing in the back ground and in the for ground you will hear city sounds such as traffic, tires screeching, people talking and shouting, sounds of rain or wind when stormy weather arises.
+
+++flowchart
+
+GamePlay Mechanics: 
+Mechanics: Other than running, players can use the bicycle, motorcycle or car to speed up their travel time. They can use apples to throw at their opponent to slow them down and get ahead of them. The player can leave bananas on the street and whenever their opponents are running, if they step on the banana this will slow them down.
+
+
+Hazards: During rush hour there will be buses and cars on the road that can slow you down. During hours that are not rush hour the traffic will decrease but still be present.
+
+Power-ups: When the player is running there might be items found along their way such as chocolate bars which will increase their running speed for 10 seconds.
+
+Collectibles:
+Apples: There might be apples left on the street the player will need to pick up these items, put them in their pockets and use this in a race to slow down your opponents.
+Bananas: There might be bananas left on the street the player will need to pick up these items, put them in their pockets and use this in a race to slow down your opponents.
+points: There might be points left on the street that the player will need to pick up. These points will be added to the players main points to help them to advance to the next level.
+
+Enemies:
+When the player reaches a certain point and can advance to the next level, they need to be able to race and beat the boss before being able to advance. The boss characters include police and famous basketball and baseball players. The police characters will move faster when riding a motorcycle or car. The basketball and baseball players will move faster when running or riding a bicycle. Make sure you have enough apples and bananas when racing with these opponents. 
+
+When you race with the boss characters you will actually be racing with AI. When you are racing with the police you want to position yourself in front of them to try to slow them down to gain an advantage. When racing with the sports players its better to slow them down by throwing apples at them.
+
+
+Achievements:
+There will be ranking every week to show by list who is the fastest racers.
+
+Multi-player Monthly Event: Every month there will be a Great Speedway Race and players from all levels can join the race. Every race will have  a maximum of 5 players per race. The winner of the race will win 1 star. The top 10 players with the most stars will receive special accessories that they can use to aid them in the race. There will also be a ranking chart listed to show people who are the top 10 racers for the month.
+
+Monetization:
+The players can buy apples and bananas and other special accessories such as a bell for the bicycle to aid them in the race. They can also purchase 5h-unlimited energy so they will have 5 hours of unlimited energy.
